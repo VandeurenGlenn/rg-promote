@@ -1,0 +1,19 @@
+##########
+# Project
+##########
+
+# build
+dist
+
+# Documentation
+docs
+
+##########
+# Web
+##########
+
+# Bower
+bower_components
+
+# Node
+node_modules

@@ -1,0 +1,35 @@
+{
+ "name": "Reefgems documentScroller",
+ "short_name": "rg-ds",
+ "icons": [
+  {
+   "src": "sources/icons/android-icon-36x36.png",
+   "sizes": "36x36",
+   "type": "image/png",
+   "density": "0.75"
+  },
+  {
+   "src": "sources/icons/android-icon-48x48.png",
+   "sizes": "48x48",
+   "type": "image/png",
+   "density": "1.0"
+ },
+ {
+  "src": "sources/icons/apple-icon-57x57.png",
+  "sizes": "57x57",
+  "type": "image/png",
+  "density": "1.0"
+ },
+ {
+  "src": "sources/icons/ms-icon-70x70.png",
+  "sizes": "70x70",
+  "type": "image/png",
+  "density": "1.0"
+ }
+],
+ "start_url": "index.html",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#555",
+ "theme_color": "#555"
+}

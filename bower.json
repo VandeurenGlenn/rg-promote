@@ -1,0 +1,27 @@
+{
+  "name": "rg-promote",
+  "description": "",
+  "main": "dist/index.js",
+  "authors": [
+    "Glenn Vandeuren <vandeurenglenn@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "firebase": "^3.6.2",
+    "pdf.js": "mozilla/pdf.js#^1.6.210"
+  },
+  "devDependencies": {
+    "pdfjs-dist": "^1.6.366"
+  },
+  "resolutions": {
+    "webcomponentsjs": "v1"
+  }
+}
